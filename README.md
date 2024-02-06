@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ironyeonsoo
-- 👀 I’m interested in FE developing.
+- 👀 I’m interested in FE develoeper as a side job.
 - 🌱 I’m currently learning HTML, CSS, JS. 
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me : ysnature97@gmail.com
